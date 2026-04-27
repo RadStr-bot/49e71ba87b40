@@ -1,0 +1,17 @@
+{
+  "iri": "http://dataspecer.com/packages/local-root/1cdd02ba-e65d-4958-9e36-49e71ba87b40/541c5982-b885-47e5-b79c-f40d2333ed97",
+  "projectIri": "3d334c40-82cf-4435-bc2e-bdb14731db7a",
+  "types": [
+    "https://dataspecer.com/core/model-descriptor/pim-store-wrapper"
+  ],
+  "userMetadata": {
+    "documentBaseUrl": "https://datagov-cz.github.io/cache-slovniku/rdfs.ttl",
+    "label": {
+      "en": "rdfs"
+    }
+  },
+  "metadata": {},
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedBy": "http://localhost:3100"
+}
