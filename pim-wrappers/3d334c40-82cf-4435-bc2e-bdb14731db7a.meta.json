@@ -1,5 +1,5 @@
 {
-  "iri": "http://dataspecer.com/packages/local-root/1cdd02ba-e65d-4958-9e36-49e71ba87b40/541c5982-b885-47e5-b79c-f40d2333ed97",
+  "iri": "e001c507-1aaa-4f91-ae87-fcaf905f5b2f",
   "projectIri": "3d334c40-82cf-4435-bc2e-bdb14731db7a",
   "types": [
     "https://dataspecer.com/core/model-descriptor/pim-store-wrapper"

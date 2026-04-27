@@ -1,5 +1,5 @@
 {
-  "iri": "http://dataspecer.com/packages/local-root/1cdd02ba-e65d-4958-9e36-49e71ba87b40/vocabulary",
+  "iri": "4c46ec44-4418-42d6-8503-9dbe7281dcb3",
   "projectIri": "bc0d26f4-71ef-4b2d-8740-92b549b39d3f",
   "types": [
     "http://dataspecer.com/resources/local/semantic-model"
